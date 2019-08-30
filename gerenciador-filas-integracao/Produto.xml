@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<produto>
+	<codigo>102</codigo>
+	<nome>ActiveMQ</nome>
+	<descricao>Mensageria com JMS e ActiveMQ</descricao>
+	<valor>49.90</valor>
+	<qtd>60</qtd>
+	<status></status>	
+	<ativo>true</ativo>
+	<categoria>
+		<codigo>1</codigo>
+	</categoria>
+	<fornecedor>
+		<codigo>1</codigo>
+	</fornecedor>
+</produto>
